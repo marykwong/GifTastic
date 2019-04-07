@@ -20,3 +20,7 @@ Vanilla JS
 AJAX
 
 Giphy API
+
+-----------------------------
+
+View the app here: https://marykwong.github.io/GifTastic/
