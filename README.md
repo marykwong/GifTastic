@@ -8,9 +8,15 @@ Click the gif will animate it, reclicking it will freeze the gif again.
 -----------------------------
 
 Made with:
+
 Jquery
+
 HTML
+
 CSS
+
 Vanilla JS
+
 AJAX
+
 Giphy API
