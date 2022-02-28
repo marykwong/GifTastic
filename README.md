@@ -15,7 +15,7 @@ HTML
 
 CSS
 
-Vanilla JS
+JavaScript
 
 AJAX
 
